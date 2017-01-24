@@ -12,3 +12,5 @@ svar:Ekki nota spennugjafa sem gefur of lítið/mikið rafmagn
 svar:
 # spurning 7
 svar:lokaðar spurningar eru spurningar eins og já eða nei spurningar þú spirð manneskju spurningu og gefur henni ákveðið sett af svörum, opnar spurningar eru spurningar eins og hvað segiru gott? svona spurningar eru opnar þú spirð manneskjuna spurningu og hún getur farið að segja sögu með svarinu.
+# spurning 8
+svar:Skjár og lyklaborð eru dæmi um jaðartæki
