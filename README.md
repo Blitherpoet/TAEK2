@@ -16,3 +16,11 @@ svar:lokaðar spurningar eru spurningar eins og já eða nei spurningar þú spi
 svar:Heyrnatól og lyklaborð eru dæmi um jaðartæki
 # spurning 9
 svar:þrjú dæmi um inntakstæki eru myndavélar,stýripinnar og mýs
+# spurning 10
+Harður diskur: WD RED 3TB diskur 20.750 - att.is
+aflgjafi: Aerocool KCAS 800W 14.500 - kisildalur.is
+móðurborð: ASUS Z170-Pro Gaming móðurborð 27.855 - att.is
+skjákort:MSI GTX1080 Armor skjákort 111.950 - att.is
+minni:Corsair 8gb kit (2x4gb) DDR4 3000MHz,CL15,Vengeance LPX 9.900 - tolvutaekni.is
+örgjöfi:intel core i7 7700k 54.750 - att.is
+kassi:EZ-cool N"-800D ATX turnkassi 9.500kr - kisildalur.is
