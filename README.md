@@ -4,3 +4,5 @@ svar:RAM stendur fyrir Random access memory. Það er hægt að líkja RAM við 
 svar:ROM stendur fyrir Read only memory.ROM er tegund af geymsluminni sem er aðeins hægt að lesa en ekki skrifa í
 # spurning 3
 svar:Vírusvörn er best svo er líka gott að passa að það sé ekki ryk í kassanum, hafa góða kælingu, ekki alltof þurrt og fleira
+# spurning 4
+svar:ESD stendur fyrir Electrostatic Discharge. Góð leið til að koma í veg fyrir esd er t.d. að passa sig að tölvan sé ekki á teppi eða feldi af einhverri gerð en frekar á hreinu og þurru borði eða viðargólfi.
