@@ -10,6 +10,13 @@ svar:ESD stendur fyrir Electrostatic Discharge. Góð leið til að koma í veg 
 svar:Ekki nota spennugjafa sem gefur of lítið/mikið rafmagn
 # spurning 6
 svar:
+1.skref:Finna út hvað vandamálið er
+2.skref:Finna út hver mögulega ástæðan er fyrir vandamálinu
+3.skref:Finna út hvort ástæðan sé rétt
+4.skref:Finna út hvað þú ætlar að gera
+5.skref:Finna út hvað virt virkar og hvað virkar ekki og sjá til þess að allt virki ef það virkar ekki
+6.skref:Finna út hvort það er eithvað um vandamálið á netinu og ef það er ekkert þá skrifar þú það niður
+
 # spurning 7
 svar:lokaðar spurningar eru spurningar eins og já eða nei spurningar þú spirð manneskju spurningu og gefur henni ákveðið sett af svörum, opnar spurningar eru spurningar eins og hvað segiru gott? svona spurningar eru opnar þú spirð manneskjuna spurningu og hún getur farið að segja sögu með svarinu.
 # spurning 8
